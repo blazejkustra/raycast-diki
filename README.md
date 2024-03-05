@@ -12,13 +12,13 @@ The extension will fail if you have the "Limit IP Address Tracking" setting enab
 Clone the project
 
 ```bash
-  git clone https://github.com/kustrablazej/diki-translate.git
+  git clone https://github.com/kustrablazej/raycast-diki.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd diki-translate
+  cd raycast-diki
 ```
 
 Install dependencies

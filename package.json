@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "diki-translate",
+  "name": "raycast-diki",
   "title": "Diki Translate",
   "description": "Diki Translate with autosuggestions",
   "icon": "command-icon.png",
