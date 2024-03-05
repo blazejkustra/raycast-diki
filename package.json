@@ -4,7 +4,7 @@
   "title": "Diki Translate",
   "description": "Diki Translate with autosuggestions",
   "icon": "command-icon.png",
-  "author": "kustrablazej",
+  "author": "blazej_kustra",
   "license": "MIT",
   "commands": [
     {
